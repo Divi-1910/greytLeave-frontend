@@ -8,11 +8,11 @@
 - **ORM**: Prisma
 - **Authentication**: Google OAuth, JWT (for admin)
 - **Cron Jobs**: Node-cron (for scheduled tasks)
-- **Others**: Resend , recoil , context api , redis , passportjs , zod , aws-sdk , framer-motion , toasts , axios , 
+- **Others**: recoil , context api , redis , MQ , sockets , passportjs , zod , aws-sdk , framer-motion , toasts , axios 
 ## Prerequisites
 
 To run this project locally, you need to have the following installed:
 
-- **Node.js** (v16.x or higher)
-- **npm** (v7.x or higher) or **yarn**
-- **PostgreSQL** (or any database supported by Prisma)
+- **Node.js** (v20.x or higher)
+- **npm** (v8.x or higher) or **yarn**
+- **PostgreSQL** (Preferred but , any SQL database supported by Prisma will do)
