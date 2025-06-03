@@ -8,7 +8,7 @@
 - **ORM**: Prisma
 - **Authentication**: Google OAuth, JWT (for admin)
 - **Cron Jobs**: Node-cron (for scheduled tasks)
-- **Others**: recoil , context api , redis , MQ , sockets , passportjs , zod , aws-sdk , framer-motion , toasts , axios 
+- **Others**: recoil , context api , redis , sockets , passportjs , zod , aws-sdk , framer-motion , toasts , axios 
 ## Prerequisites
 
 To run this project locally, you need to have the following installed:
